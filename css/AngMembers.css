@@ -1,0 +1,252 @@
+#angPicture{
+	width: 60px;
+	height: 40px;
+	border-radius: 10px;
+	box-shadow: 0.5;
+	padding: auto;
+    filter: alpha(opacity=50);
+
+}
+
+#navbarChanges{
+	background-color: #e3f2fd;
+}
+
+
+
+#jumbotronFootnote{
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	background-image: none;
+	background-attachment: scroll;
+	background-repeat: repeat;
+	background-position-x: 0%;
+	background-position-y: 0%;
+	background-size: auto;
+	background-origin: padding-box;
+	background-clip: border-box;
+	background-color: #f9f9f9;
+	
+
+}
+
+
+
+#body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+#angPicture{
+	width: 60px;
+	height: 40px;
+	border-radius: 10px;
+	box-shadow: 0.5;
+	padding: auto;
+    filter: alpha(opacity=50);
+
+}
+
+#navbarChanges{
+	background-color: #e3f2fd;
+}
+
+#search{
+	text-align: right;
+	display: block;
+}
+
+
+
+
+#jumbotronFootnote{
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	background-image: none;
+	background-attachment: scroll;
+	background-repeat: repeat;
+	background-position-x: 0%;
+	background-position-y: 0%;
+	background-size: auto;
+	background-origin: padding-box;
+	background-clip: border-box;
+	background-color: #f9f9f9;
+	
+
+}
+
+.notesList{
+	margin-bottom: 2px;
+	padding-top: 2px;
+}
+
+p{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#liFooNote{
+	font-weight: bold;
+	text-decoration: underline;
+	list-style: none;
+}
+
+li{
+	list-style: none;
+}
+
+#closeJumbotron{
+	margin-top: 0px
+	padding-top: 0px;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+}
+
+#navPadd{
+	padding-bottom: 0px;
+}
+
+#SecJumbotron{
+	margin-top: 0rem;
+	padding-top: 0rem;
+}
+
+#home{
+
+	width: 30px;
+	font-size: 30px;
+}
+
+h1{
+	margin-left: 250px;
+	margin-top: -40px;
+}
+
+.header{
+	
+	background: #C02425;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #F0CB35, #C02425);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #F0CB35, #C02425); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.row1{
+	border: 3px solid black;
+}
+
+table{
+	width: 100%;
+	/* border: 3px solid black*/;
+}
+
+ td{
+    height: 300px;
+    /*border: 3px solid black;*/
+}
+
+tr{
+	 height: 300px;
+   /* border: 3px solid black;*/
+    width: 100%;
+}
+
+#thisRow{
+	height: 200px;
+}
+
+.EBoard{
+	text-align: center;
+	font-size: 50px;
+	margin-left: 200px;
+}
+.E-Board{
+	margin-top: 100px;
+	position: absolute;
+	margin-left: 200px;
+}
+
+.Helga{
+	height: 250px;
+	width: 200px;
+	position: absolute;
+	margin-top: -130px;
+	margin-left: 40px;
+}
+
+.Hinfo{
+	position: absolute;
+	margin-top: -850px;
+	margin-left: 870px;
+
+}
+.Pedro{
+	height: 250px;
+	width: 200px;
+	position: absolute;
+	margin-top: -130px;
+	margin-left: 40px;
+}
+
+.Peinfo{
+	position: absolute;
+	margin-top: -550px;
+	margin-left: 870px;
+
+}
+
+.Paulo{
+	height: 250px;
+	width: 200px;
+	position: absolute;
+	margin-top: -130px;
+	margin-left: 60px;
+}
+
+
+.Pinfo{
+	position: absolute;
+	margin-top: -850px;
+	margin-left: 320px;
+
+}
+
+.Carol{
+	height: 250px;
+	width: 200px;
+	position: absolute;
+	margin-top: -130px;
+	margin-left: 60px;
+}
+
+
+.Cinfo{
+	position: absolute;
+	margin-top: -550px;
+	margin-left: 320px;
+
+}
+
+.selected{
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.form-control{
+	width: 50px;
+	background-color: black;
+}
+
+.btn-search{
+	width: 50px;
+	background-color: black;
+}
